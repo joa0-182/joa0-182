@@ -22,8 +22,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="496em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/>
-<img width="496em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joa0-182&theme=highcontrast)](https://git.io/streak-stats)
