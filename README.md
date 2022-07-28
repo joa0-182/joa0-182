@@ -1,6 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joa0-182/bd2f06170c9ad064a975d42553bcd1cd/raw/a37626653454288cd64cf751213bd5c619dc7560/cardreadmejp.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joa0-182&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Learning and studying programming
 - 🔭 I currently do not have a job, and I am looking for a job in this field.
