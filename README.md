@@ -22,6 +22,7 @@
 ![mySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=Ionic)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 
 
 
