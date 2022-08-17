@@ -33,7 +33,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="513em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/> <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
+<img width="513em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
 </p>
 
 <br><br>
