@@ -9,34 +9,28 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🛠 &nbsp;I'm currently studying
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![mySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
-![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=Ionic)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
-
-
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
+<p align="center">
+<img width="513em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/> <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joa0-182&theme=highcontrast)](https://git.io/streak-stats)
-
 
 <br><br>
 
