@@ -47,4 +47,4 @@
   <img align="center" src="https://img.shields.io/badge/-João Pedro Maria-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-<img align="center" src="https://img.shields.io/badge/-Joaopedromaria182@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+📧 Joaopedromaria182@gmail.com
