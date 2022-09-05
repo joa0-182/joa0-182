@@ -42,8 +42,9 @@
 
 ## Contact
 
+<p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/joão-pedro-maria-bb04231b3/" target="_blank">
-<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/-João Pedro Maria-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 <img align="center" src="https://img.shields.io/badge/-Joaopedromaria182@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
