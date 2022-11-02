@@ -3,7 +3,7 @@
 
 - 🔥 Learning and studying programming
 - 🔭 I currently do not have a job, and I am looking for a job in this field.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Front end, JavaScript, C# .NET, MySQL.
 
 <br><br>
 
