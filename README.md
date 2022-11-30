@@ -2,8 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Pedro</h1>
 
 - 🔥 Learning and studying programming
-- 🔭 I currently do not have a job, and I am looking for a job in this field.
-- 🌱 I’m currently learning Front end, JavaScript, C# .NET, MySQL.
+- 🔭 I currently work at Zion LogTec as a support developer
+- 🌱 I'm currently studying: C#, .NET, Delphi, Oracle, MySQL, SQL Server.
 
 <br><br>
 
