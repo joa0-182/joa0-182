@@ -3,7 +3,7 @@
 
 - 🔥 Learning and studying programming
 - 🔭 I currently work at Zion LogTec as a support developer
-- 🌱 I'm currently studying: C#, .NET, Delphi, Oracle, MySQL, SQL Server.
+- 🌱 I'm currently studying: PL/SQL and Javascript
 
 <br><br>
 
