@@ -1,7 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá, me chamo João Pedro</h1>
 
 - 🔥 Formado como Técnico em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software no Descomplica.
-- 🔭 Atualmente, atuo como Desenvolvedor de Suporte na Zion Logtec.
 
 <br><br>
 
