@@ -3,7 +3,7 @@
 -  Formado como Técnico em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software no Descomplica.
 -  Em estudo constante para Analista de Dados
 
--  (obs: aqui você pode encontrar projetos relevantes que coisas mais elaboradas e apronfundadas, e também aqueles que foram dedicados ao aprendizado atual ou desde que comocei na programação
+-  (obs: aqui você pode encontrar projetos relevantes sobre coisas mais elaboradas e apronfundadas, e também aqueles que foram dedicados ao aprendizado atual ou desde que comecei na programação
 
 <br><br>
 
