@@ -4,7 +4,7 @@
 </h1>
 
 <blockquote align="center">
-Analista de Dados | Estudante de Engenharia de Software | Apaixonado por dados 🚀
+Analista de Dados | Engenharia de Dados | Apaixonado por dados 🚀
 </blockquote>
 
 
