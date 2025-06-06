@@ -1,13 +1,16 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá, me chamo João Pedro Maria</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+  Olá, me chamo João Pedro Maria
+</h1>
 
--  Formado como Técnico em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software no Descomplica.
--  Em estudo constante para Analista de Dados
+<blockquote align="center">
+Analista de Dados | Estudante de Engenharia de Software | Apaixonado por dados 🚀
+</blockquote>
 
--  (obs: aqui você pode encontrar projetos relevantes sobre coisas mais elaboradas e apronfundadas, e também aqueles que foram dedicados ao aprendizado atual ou desde que comecei na programação
 
 <br><br>
 
-## 🛠 &nbsp;Minhas Competências
+## 🛠 &nbsp;Minhas Competências & Técnicas Principais
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -35,22 +38,54 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](	https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+<hr>
+
+<br><br>
+
+## 💼 Sobre meu trabalho
+
+Sou **Analista de Dados** com foco em desenvolvimento, otimização e automação de processos de ETL e suporte à tomada de decisões, utilizando **SQL**, **Python** e **Power BI**.
+
+💡Atuo na identificação e correção de falhas, gargalos e inconsistências que comprometem a eficiência dos dados e dos processos de negócio. 
+
+🧠 Tenho sólido conhecimento em **SQL** para criação e manutenção de procedures, triggers, functions e jobs, Também trabalho com modelagem de dados, estruturação de tabelas e índices em bancos relacionais.
+
+🤖 Com **Python**, automatizo tarefas de auditoria, apuração e integração de dados, aplicando técnicas de análise, limpeza e transformação. Integro esses scripts com bancos de dados para otimizar fluxos e aumentar a produtividade.
+
+📊 No **Power BI**, desenvolvo dashboards interativos e dinâmicos que transformam dados complexos em insights estratégicos e acessíveis, apoiando a tomada de decisões baseada em evidências.
+
+💼 Meu foco está em entregar soluções orientadas a dados, com alta confiabilidade, escalabilidade e impacto direto na eficiência operacional e estratégica das organizações.
+
+<br><br>
+
+## 🚀 &nbsp;O que busco
+
+Contribuir com soluções eficientes, escaláveis e orientadas a dados que elevem a qualidade das informações, agilizem processos e potencializem a tomada de decisões estratégicas nas organizações. Estou aberto a desafios que permitam aplicar minhas habilidades técnicas e aprender continuamente no ambiente de dados e inteligência de negócios.
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="513em" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark" alt="joa0-182's stats"/> <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark" alt="joa0-182's most languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joa0-182&show_icons=true&theme=vision-friendly-dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joa0-182&layout=compact&theme=vision-friendly-dark"/>
 </p>
 
 <br><br>
 
-## Contatos
+## 📬 Contato
 
-<a href="https://www.linkedin.com/in/joão-pedro-maria-bb04231b3/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a> <a href="mailto:joaopedromaria182@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/joão-pedro-maria-bb04231b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaopedromaria182@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">Feito com 💻 por <strong>João Pedro Maria</strong></p>
 
 
